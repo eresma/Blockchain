@@ -1,0 +1,1 @@
+Quand on lance le programe il faudra insérer des chaine de caractère pour tester le hash.
